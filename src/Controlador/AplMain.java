@@ -8,7 +8,6 @@ import Modelo.Categoria;
 import Modelo.Cliente;
 import Modelo.DirectorioCa;
 import Modelo.DirectorioCli;
-import Modelo.DirectorioSub;
 import Modelo.Subcategoria;
 import java.util.Scanner;
 
